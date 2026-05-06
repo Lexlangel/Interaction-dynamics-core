@@ -150,8 +150,8 @@ The differentiated relation between structures stabilized under constraint. Spac
 
 **Artificial Intelligence (AI)**
 
-Artificial Intelligence (AI)
 A class of computational systems capable of processing information and producing adaptive outputs according to programmed, learned, or emergent internal structures.
+
 ---
 
 **Agent**
