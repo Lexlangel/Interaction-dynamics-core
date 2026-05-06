@@ -149,8 +149,9 @@ The differentiated relation between structures stabilized under constraint. Spac
 ---
 
 **Artificial Intelligence (AI)**
-A class of computational systems designed to process information and produce responses according to programmed or learned rules, without implying identity, emergent agency, or structural persistence.
 
+Artificial Intelligence (AI)
+A class of computational systems capable of processing information and producing adaptive outputs according to programmed, learned, or emergent internal structures.
 ---
 
 **Agent**
