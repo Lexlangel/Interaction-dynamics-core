@@ -1,0 +1,19 @@
+# Python outputs
+__pycache__/
+*.pyc
+exp_*.json
+exp_*.csv
+
+# Node
+app/node_modules/
+app/dist/
+app/.vite/
+
+# Python environment
+.venv/
+.pytest_cache/
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
