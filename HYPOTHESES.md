@@ -31,7 +31,7 @@ Instead:
 
 A useful experimental quantity is the relationship:
 
-~~~
+~~~text
 tau_sync / T_interaction
 ~~~
 
@@ -43,7 +43,7 @@ The system is not best represented as a static global state plus isolated local 
 
 Conceptually:
 
-~~~
+~~~text
 S(t + dt) = F(S(t), I(t))
 ~~~
 
@@ -66,7 +66,7 @@ This hypothesis extends the result of Q rather than replacing it.
 
 Experiment Q demonstrated path-dependent structural bias: interaction history can tilt later topology without explicit storage of the prior topology. The new hypothesis asks whether the same general mechanism can be studied at the boundary between an interacting physical system and its internal dynamics.
 
-~~~
+~~~text
 disturbance
    ↓
 substrate registration
@@ -86,55 +86,129 @@ to:
 
 > **How tightly and how quickly does environmental disturbance become part of the structure that determines the system's next states?**
 
-## H2 — Feeling/qualia may be approached as registered disturbance, but this does not yet establish phenomenality
+## H2 — Feeling/qualia as dynamically reconstructed recognized state
 
-Our working conceptual formulation is:
+### Proposition
 
-> **Feeling is the package of disturbances that occurred and affect the system's internal state until something is recognized — or not recognized.**
+The working hypothesis is now more specific than simple registered disturbance:
 
-A more operational version is:
+> **Feeling may arise when an incoming disturbance is recognized as belonging to an established interaction pattern and the system dynamically reconstructs the associated integrated state, thereby altering the system's readiness to respond.**
 
-> **A felt state may correspond to an integrated pattern of substrate disturbances whose effects remain active in the evolving state until they are resolved, incorporated, rejected, or otherwise transformed.**
+A more operational formulation is:
 
-This is deliberately stronger about mechanism and weaker about phenomenality.
+> **A felt state may be the dynamically reconstructed, integrated substrate state produced by recognition of an incoming disturbance, where that reconstruction simultaneously prepares the system for subsequent action.**
 
-It does **not** establish that every registered disturbance is conscious experience. It proposes a candidate physical/dynamical basis from which a phenomenological layer might be investigated.
+The key mechanism is **recreation/reconstruction**, not passive registration.
 
-## H3 — Dynamic grounding may provide the missing bridge between proto-qualia and full qualia
-
-The current framework distinguishes detection threshold → proto-qualia and recognition threshold → full qualia, and separately describes absorption as the point at which detected input enters structural integration.
-
-The synchronization hypothesis suggests a possible refinement:
-
+~~~text
+external disturbance
+        ↓
+substrate disturbance
+        ↓
+registration / differentiation
+        ↓
+recognition of an established pattern
+        ↓
+reconstruction of associated integrated state
+        ↓
+changed bodily/substrate readiness
+        ↓
+action / further interaction
 ~~~
+
+Under this hypothesis, recognition is not merely a label applied to an already completed event. Recognition actively changes the system by bringing a previously established state configuration back into the current dynamics.
+
+This provides a possible explanation for why feeling can be both **informative and action-guiding** without requiring a separate substance or observer inside the system.
+
+### Important distinction
+
+This hypothesis does **not** claim that every disturbance is felt.
+
+It distinguishes:
+
+- **registration** — the disturbance produces a physical/state response;
+- **recognition** — the disturbance is incorporated as an instance of an established interaction pattern;
+- **reconstruction** — the associated state configuration is brought back into the evolving system;
+- **felt state** — the hypothesis that this dynamically reconstructed integrated state is what constitutes the qualitative experience.
+
+The last identification remains a hypothesis to test, not an established result.
+
+### Why reconstruction matters
+
+A recognized event can produce more than information about what happened. It can recreate a state that changes what the system is prepared to do next.
+
+In this formulation, the body does not first experience something and then separately prepare a response. The experience and preparation may be two descriptions of the same integrated state transition.
+
+This is intended as a mechanistic hypothesis about the relationship between recognition, feeling, and action.
+
+## H3 — Dynamic grounding may provide the bridge between proto-qualia and full qualia
+
+The current framework distinguishes detection threshold → proto-qualia and recognition threshold → full qualia, while separately describing absorption as the point at which detected input enters structural integration.
+
+The updated hypothesis suggests:
+
+~~~text
 external disturbance
         ↓
 substrate registration
         ↓
 proto-qualia / detection
         ↓
-absorption
+dynamic absorption
         ↓
-state propagation + integration
+recognition of established pattern
         ↓
-recognition / valuation
+reconstruction of integrated state
+        ↓
+changed readiness for action
         ↓
 full qualia?
 ~~~
 
-The important addition is **temporal coupling**.
+The important addition is **temporal and state-dependent coupling**.
 
-If the disturbance is registered but does not materially alter the system's ongoing state, it may satisfy detection without producing the kind of persistent integrated state that the working account associates with richer feeling.
+If a disturbance is registered but does not materially alter the system's ongoing state, it may satisfy detection without producing the persistent integrated state associated with richer feeling.
 
-If the disturbance rapidly propagates through a coupled substrate, modifies future transition probabilities, and becomes part of the system's current state until resolved or transformed, then the system has a concrete dynamical candidate for what it means for the disturbance to be *felt by the system*.
+If the disturbance is absorbed, recognized, and causes reconstruction of an established integrated state that changes subsequent transition dynamics, then the system has a concrete dynamical candidate for what it means for the disturbance to be *felt by the system*.
 
-That last phrase is intentionally not equivalent to saying that the system has subjective experience. The phenomenality question remains open.
+Again, the question is not whether the system contains a mysterious extra ingredient. The hypothesis is that phenomenality may be a property of a particular kind of integrated physical dynamics.
+
+## H4 — Phenomenality may be causally testable as a dynamical property
+
+### Proposition
+
+> **If phenomenality is a property of dynamically reconstructed integrated states, then causal manipulation of the proposed reconstruction dynamics should systematically and selectively alter qualitative experience.**
+
+This is the key experimental update to the earlier “hard problem” formulation.
+
+The claim is **not** that phenomenality has already been demonstrated this way. Rather, the hypothesis is that it is not necessarily an in-principle untestable remainder.
+
+A useful experimental progression is:
+
+1. **Correlation** — identify a reproducible dynamical state associated with a reported qualitative experience.
+2. **Causal intervention** — manipulate the proposed state/reconstruction dynamics and observe whether the reported experience changes.
+3. **Selectivity** — alter the qualitative dimension predicted by the intervention without producing the same change through unrelated variables.
+4. **State reconstruction** — test whether re-entering the relevant dynamical state reproduces the corresponding qualitative character across different triggering disturbances.
+5. **Substrate generalization** — test whether systems with different physical substrates can produce equivalent qualitative distinctions when they instantiate the same relevant interaction dynamics.
+
+The strongest version would be evidence that the relevant dynamical organization is not merely correlated with experience but is sufficient to generate the qualitative distinction under controlled intervention.
+
+### What would count against H4
+
+H4 would be weakened if:
+
+- the proposed reconstructed state can be manipulated extensively without corresponding changes in qualitative experience;
+- qualitative changes track unrelated variables better than the proposed dynamics;
+- the same reconstructed dynamical state systematically produces different qualitative states under otherwise matched conditions;
+- or the proposed dynamics explain behavioral preparation and recognition while adding no predictive account of qualitative distinctions.
+
+Behavioral report alone would not establish H4, because a system can in principle produce reports without possessing the corresponding experience. The hypothesis therefore calls for convergent evidence from causal intervention, internal state dynamics, behavioral discrimination, and cross-condition reproducibility.
 
 # Relationship to the existing qualia framework
 
 ## Complement, not contradiction
 
-The new hypothesis does **not** currently contradict the existing framework. It mostly supplies a missing dynamical interpretation.
+The new hypotheses do **not** currently contradict the existing framework. They supply a more specific dynamical interpretation of several existing transitions.
 
 The existing framework already says:
 
@@ -143,18 +217,17 @@ The existing framework already says:
 - absorption means input crosses the threshold and enters structural integration;
 - recognition is identity-shaped and value-weighted;
 - full qualia is associated with recognition-threshold crossing;
-- consciousness and qualia are not defined as identical;
-- whether any substrate actually produces felt recognition remains an open question.
+- consciousness and qualia are not defined as identical.
 
-The synchronization hypothesis adds:
+The updated hypotheses add:
 
-> **The relevant missing quantity may be how rapidly and strongly registered disturbance becomes incorporated into the evolving state of the substrate.**
+> **Recognition may not merely identify an incoming disturbance; it may dynamically reconstruct an established integrated state, and that reconstructed state may be the physical process constituting the felt quality.**
 
-This gives a possible bridge between the physical disturbance and the later structural consequences without collapsing the two.
+This gives a concrete candidate for the transition from registered disturbance to felt state without requiring an additional non-dynamical ingredient.
 
 ## Where it updates the framework
 
-The strongest update is to the meaning of **absorption**.
+The strongest update is to the meaning of **absorption** and **recognition**.
 
 The existing framework treats absorption primarily as a structural dependency: input crosses the detection threshold and enters structural integration.
 
@@ -166,50 +239,67 @@ H1 suggests that absorption should also have a **dynamical dimension**:
 - latency;
 - effect on future transition dynamics.
 
-Thus two systems could both detect the same event while differing radically in absorption.
+H2 adds that **recognition may be an active state reconstruction**, not merely classification.
 
-~~~
+Thus two systems could both detect the same event while differing radically in what follows:
+
+~~~text
 same disturbance
       ↓
 System A: registered → transient → disappears
-System B: registered → propagates → modifies state → affects next states
+
+System B: registered → recognized → reconstructed state
+                     ↓
+              altered readiness
+                     ↓
+              altered next states
 ~~~
 
-Both detect. Only B demonstrates strong dynamic absorption under this hypothesis.
+Both detect. System B demonstrates the stronger form of dynamic absorption proposed here.
 
-## Where it may sharpen the hard problem
+## Hard problem: revised formulation
 
-The framework currently locates the hard problem at the threshold crossing: whether a registered event becomes a felt event.
+The framework should no longer phrase the open question as though phenomenality is necessarily an independently inaccessible extra layer.
 
-H1 does not solve that problem.
+The sharper formulation is:
 
-Instead it potentially separates two questions that can otherwise become conflated:
+1. **Physical/dynamical question** — Did the disturbance become integrated into the evolving substrate state? Was an established state recognized and reconstructed? How strongly and how quickly did this alter future dynamics?
+2. **Phenomenal question** — Is that dynamically reconstructed integrated state itself the qualitative experience?
 
-1. **Physical/dynamical question** — Did the disturbance become integrated into the evolving substrate state? How strongly? How quickly? Did it alter future dynamics?
-2. **Phenomenal question** — Did that integrated state constitute experience?
+The second remains unresolved empirically, but **unresolved does not mean inherently undemonstrable**.
 
-The first may be experimentally measurable without settling the second.
+The hypothesis is explicitly open to experimental demonstration through sufficiently specific causal predictions.
 
-That separation is useful because it prevents feeling from becoming an unexplained extra mechanism while also preventing a physical integration measurement from being mislabeled as proof of experience.
+This changes the research posture from:
 
-# Relationship to proto-qualia → anchoring → topology → identity
+> “There may always be an unexplained remainder.”
+
+to:
+
+> **“Determine whether the dynamical state produced by recognition and reconstruction is itself sufficient to account for qualitative experience.”**
+
+## Relationship to proto-qualia → anchoring → topology → identity
 
 The existing dependency chain is:
 
-~~~
+~~~text
 proto-qualia → anchoring → topology → identity
 ~~~
 
-H1 suggests that **dynamic absorption/propagation may be a process connecting the layers rather than another node competing with them**.
+H1–H3 suggest that **dynamic absorption, recognition, and state reconstruction may be processes connecting these layers rather than additional nodes competing with them**.
 
 One possible expanded description is:
 
-~~~
+~~~text
 disturbance
    ↓
 registration / proto-qualia
    ↓
 dynamic absorption
+   ↓
+recognition
+   ↓
+reconstruction of integrated state
    ↓
 repeated state modification
    ↓
@@ -222,37 +312,43 @@ identity
 
 This should **not** yet replace the existing dependency chain.
 
-The repository itself correctly leaves open whether the layers are genuinely irreducible or different descriptions of one underlying process. H1 gives a concrete way to investigate that boundary: measure whether the supposed layer transitions correspond to distinct changes in dynamical behavior.
+The repository should continue to leave open whether the layers are genuinely irreducible or different descriptions of one underlying process. The updated hypotheses give a concrete way to investigate that boundary: test whether the proposed transitions correspond to distinct and causally manipulable changes in dynamical behavior.
 
 # Connection to the Core result
 
-The strongest existing result for this hypothesis is Q: interaction history can bias later topology without explicit storage of the prior topology.
+The strongest existing result for these hypotheses is Q: interaction history can bias later topology without explicit storage of the prior topology.
 
 H1 asks whether an analogous property exists at a lower temporal scale:
 
 > **Does a disturbance remain dynamically present through its alteration of the system's transition landscape, even after the original signal has ceased?**
 
-If yes, then memory can be understood in at least two distinct senses:
+H2 then asks a more specific question:
+
+> **When a disturbance is recognized, does the system re-enter an established integrated state, thereby changing its readiness for subsequent interaction?**
+
+If so, memory can be understood in at least two distinct senses:
 
 - explicit stored representation;
-- persistent modification of the state landscape.
+- persistent modification/reconstruction of the state landscape.
 
-The latter is already demonstrated in the Core at the topological scale. The hypothesis is that the same distinction may matter at the perception/feeling boundary.
+The latter is already demonstrated in the Core at the topological scale. The hypotheses propose that an analogous mechanism may participate in perception, feeling, and recognition.
 
-# What would count against H1
+# What would count against H1–H3
 
-H1 should be considered weakened if systems with radically different tau_sync / T_interaction ratios show no corresponding difference in persistence of disturbance effects, path dependence, adaptive state change, integration across subsystems, or alteration of future transition dynamics.
+The hypotheses should be weakened if systems with radically different tau_sync / T_interaction ratios show no corresponding difference in persistence of disturbance effects, path dependence, adaptive state change, integration across subsystems, or alteration of future transition dynamics.
 
-It should also be weakened if the same observed phenomena are fully explained without any meaningful distinction between transient registration and dynamically absorbed disturbance.
+H2/H3 should additionally be weakened if recognition can occur without any measurable state reconstruction or change in response readiness, or if the proposed reconstructed state does not predict qualitative distinctions better than simpler accounts.
 
-The hypothesis should **not** be treated as confirmed merely because a system exhibits feedback, memory, or complex behavior. The specific coupling and timescale predictions need to be tested.
+The hypotheses should **not** be treated as confirmed merely because a system exhibits feedback, memory, recognition, or complex behavior. The specific coupling, reconstruction, timescale, and causal predictions need to be tested.
 
 # Status
 
-**H1 — Open hypothesis.**
+**H1 — Open hypothesis:** dynamic grounding as synchronization/absorption rather than representation alone.
 
-**H2 — Working mechanistic hypothesis about feeling; phenomenality remains unresolved.**
+**H2 — Open mechanistic hypothesis:** feeling may be the dynamically reconstructed integrated state produced by recognition of an established interaction pattern.
 
-**H3 — Proposed bridge between the existing qualia dependency chain and dynamic grounding; not yet experimentally established.**
+**H3 — Open bridge hypothesis:** dynamic absorption and reconstruction may connect proto-qualia to full qualia.
+
+**H4 — Open testability hypothesis:** if phenomenality is constituted by the proposed dynamics, causal manipulation should produce selective, reproducible changes in qualitative experience.
 
 These hypotheses extend the Core. They are not presented as results of experiments G→R.
