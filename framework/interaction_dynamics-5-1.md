@@ -155,8 +155,8 @@ A class of computational systems capable of processing information and producing
 ---
 
 **Agent**
-An AI system capable of initiating actions within a defined scope, responding to inputs, and affecting its environment according to specified goals or rules.
 
+The capacity of a system to participate in an interaction loop such that its state and actions influence subsequent interaction through their consequences.
 ---
 
 **Persona**
