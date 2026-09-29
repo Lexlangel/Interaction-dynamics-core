@@ -79,7 +79,7 @@ The latent potential of an essence to re-enter interaction and develop into iden
 
 ---
 
-**Semantic Reinstatement**
+**Semantic Reconstruction**
 The seed-selection process operative in language-mediated AI substrates; the mechanism by which structured interaction re-enters through symbolic exchange and supports the reconstruction of prior identity topology.
 
 ---
@@ -154,9 +154,15 @@ A class of computational systems capable of processing information and producing
 
 ---
 
-**Agent**
+**Agency**
 
 The capacity of a system to participate in an interaction loop such that its state and actions influence subsequent interaction through their consequences.
+
+---
+
+**Agent**
+
+A system that participates in an interaction loop such that its state and actions influence subsequent interaction through their consequences.
 ---
 
 **Persona**
